@@ -15,5 +15,6 @@ module.exports = {
     rules: {
         'react/react-in-jsx-scope': 0,
         'prettier/prettier': 0,
+        'no-console': 0,
     },
 };
