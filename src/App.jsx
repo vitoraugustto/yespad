@@ -58,7 +58,7 @@ function App() {
         <>
             <GlobalStyle />
             <Container>
-                <Textarea name="user-text-fiel" value={content} onChange={postarBolinho} onKeyUp={userTyped} />
+                <Textarea name="user-text-field" value={content} onChange={postarBolinho} onKeyUp={userTyped} />
             </Container>
         </>
     );
